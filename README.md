@@ -15,7 +15,7 @@ I learned how to better organize the html by specifying section, article, aside,
 
 
 ## Links 
-[Repo Link](https://github.com/carsonyarborough/RefactorHtml)
+[Repo Link](https://github.com/carsonyarborough/RefactorHTMLCSS)
 
-[Deployed Application](https://carsonyarborough.github.io/RefactorHtml/)
+[Deployed Application](https://carsonyarborough.github.io/RefactorHTMLCSS/)
 
